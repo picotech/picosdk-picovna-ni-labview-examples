@@ -1,0 +1,12 @@
+# .gitignore file for picosdk-picovna-ni-labview-examples repository
+# Untracked files/folders to ignore.
+
+# Windows platforms
+
+**/*.exe
+
+# Calibration files
+**/*.cal
+
+# Touchstone files
+**/*.s2p
