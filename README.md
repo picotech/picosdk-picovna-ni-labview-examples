@@ -22,7 +22,7 @@ The examples act as ActiveX clients, while the *PicoVNA 2* applications act as A
 
 ### Programmer's Guides
 
-You can download a Programmer's Guides providing a description of the API functions for the PicoVNA from our [Documentation page](https://www.picotech.com/library/documentation).
+You can download a Programmer's Guides providing a description of the API functions for the Pico VNA from our [Documentation page](https://www.picotech.com/library/documentation).
 
 ### Running the examples
 
