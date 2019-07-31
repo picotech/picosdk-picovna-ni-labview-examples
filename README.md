@@ -22,7 +22,7 @@ The examples act as ActiveX clients, while the *PicoVNA 2* applications act as A
 
 ### Programmer's Guides
 
-You can download a Programmer's Guides providing a description of the API functions for the PicoVNA from our [Documentation page](https://www.picotech.com/library/documentation).
+You can download a Programmer's Guide providing a description of the API functions for the PicoVNA from our [Documentation page](https://www.picotech.com/library/documentation).
 
 ### Running the examples
 
@@ -42,7 +42,7 @@ Contributions are welcome. Please refer to our [guidelines for contributing](.gi
 
 See [LICENSE.md](LICENSE.md) for license terms.
 
-*PicoVNA* is a trademark of Pico Technology Ltd. 
+*PicoVNA* is a registered trademark of Pico Technology Ltd. 
 
 *Windows* is a registered trademark of Microsoft Corporation.
 
