@@ -10,7 +10,7 @@ The examples act as ActiveX clients, while the *PicoVNA 2* applications act as A
 
 ### Prerequisites
 
-* National Instruments LabVIEW Base Development System 8.5 or later (32-bit)
+* National Instruments LabVIEW Base Development System 8.5 or later 
 
 ### Supported models
 
