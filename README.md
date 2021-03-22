@@ -4,7 +4,7 @@
 
 Examples are provided as a set of LabVIEW vi files.
 
-The examples act as ActiveX clients, while the *PicoVNA 2* applications act as ActiveX servers.
+The examples act as ActiveX clients, while the *PicoVNA 2* and *PicoVNA 3*  applications act as ActiveX servers.
 
 ## Getting started
 
@@ -15,10 +15,11 @@ The examples act as ActiveX clients, while the *PicoVNA 2* applications act as A
 ### Supported models
 
 * PicoVNA 106
+* PicoVNA 108
 
 ### Installing software
 
-* Download the PicoVNA 2 software from our [Downloads page](https://www.picotech.com/downloads).
+* Download the PicoVNA 2  or PicoVNA 3 software from our [Downloads page](https://www.picotech.com/downloads).
 
 ### Programmer's Guides
 
@@ -48,4 +49,4 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *LabVIEW* is a registered trademark of National Instruments Corporation.
 
-Copyright © 2018 Pico Technology Ltd. All rights reserved.
+Copyright © 2021 Pico Technology Ltd. All rights reserved.
