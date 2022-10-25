@@ -19,7 +19,7 @@ The examples act as ActiveX clients, while the *PicoVNA 2* and *PicoVNA 3*  appl
 
 ### Installing software
 
-* Download the PicoVNA 2  or PicoVNA 3 software from our [Downloads page](https://www.picotech.com/downloads).
+* Download the PicoVNA 3 software from our [Downloads page](https://www.picotech.com/downloads).
 
 ### Programmer's Guides
 
@@ -27,9 +27,10 @@ You can download a Programmer's Guide providing a description of the API functio
 
 ### Running the examples
 
-* To run the program click **ON**. 
-* Send any commands from the command string or click **Run**, **Single**, **Stop**, or **Get Data**
-* To close the presentation click **OFF**
+*  Open vi example for your model VNA (106 or 108)
+*  Change any controls as required
+*  Run the vi
+*  Choose the VNA cal file to use or click OK to use the default cal file.
 
 ## Obtaining support
 
